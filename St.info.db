@@ -1,0 +1,13 @@
+INSERT INTO "St_info" ("st_no", "adm_date", "st_name", "st_age", "st_address")
+ 
+VALUES 
+
+('1', '2024-12-6', 'ayesha', 19, 'nawabshah '),
+
+('2', '2024-8-6', 'amar', 11, 'hyderabad'),
+
+('3', '2024-2-16', 'komal', 20, 'nawabshah'),
+
+('4', '2024-1-26', 'sana', 15, 'shapur'),
+
+('5', '2024-10-22', 'Amjad ', 18, 'karachi');
